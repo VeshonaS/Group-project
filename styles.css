@@ -1,0 +1,233 @@
+img {
+    width: 28%;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+h1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #0028ab;
+    color: #ff0000;
+    border: 10px groove red;
+    font-family: 'Oxanium';
+    border-radius: 20%;
+    padding: 20px;
+    Background-image:
+        url("https://thumbs.gfycat.com/ShoddyQualifiedIguanodon-size_restricted.gif");
+    background-size: 1360px 100px;
+
+}
+
+body {
+    background-color: #030b14;
+}
+
+h2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #7d8dc7;
+    border: 10px groove #1547eb;
+    font-family: 'Spartan';
+    padding: 10px;
+}
+
+#nexttask {
+    display: none;
+
+}
+
+
+#nexttask2 {
+    display: none;
+
+}
+
+.Unreasonable-Warranted {
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+}
+
+
+.Racial-Profiling {
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+}
+
+.Physical-Harassment {
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+}
+
+p {
+    font-family: 'Raleway';
+    color: #e4c2ff;
+}
+
+
+.suggest {
+     border: groove grey 2px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+}
+
+li {
+    font-family: 'Raleway';
+    color: #e4c2ff;
+    margin: 10px;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    margin: 8px;
+}
+
+button {
+    color: lightblue;
+    background-color: black;
+    border-radius: 50px;
+}
+
+#see-color {
+    background-color: white;
+}
+
+.Unreasonable-Warranted {
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+}
+
+
+.Racial-Profiling {
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+}
+
+.Physical-Harassment {
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+}
+
+.Comment-B {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.suggest-B {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.comment {
+    border: groove grey 2px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+}
+
+h4 {
+    font-family: 'Kanit';
+    color: red;
+}
+
+h3 {
+    font-family: 'Raleway';
+    color: #e4c2ff;
+}
+
+.for-the-sec-page {
+    color: red;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+#back-button{
+   display:none; 
+    }
+.back-button2{
+        display:none;
+        }
+
+        
+        
+        
+        #survey{display:none;}
+
+.questions {
+    display: flex;
+    flex-direction: column;
+    border: 20px groove gray;
+    padding: 20px;
+}
+
+button {
+    margin: 10px;
+    height: 50px;
+}
+
+h1 {
+    
+    display: flex;
+    justify-content: center;
+
+}
+
+.Yes-input1 {
+    display: none;
+}
+
+.Yes-input2 {
+    display: none;
+}
+.User-contact {
+    display: none;
+}
+.No {
+    margin: 2px;
+    height: 20px;
+    width:100px;
+}
+
+.Yes {
+    margin: 2px;
+    height: 20px;
+    width:100px;
+}
+.Yes2 {
+    margin: 2px;
+    height: 20px;
+    width:100px;
+}
+.sure{
+    margin: 2px;
+    height: 20px;
+    width:120px;
+}
+.nope {
+    margin: 2px;
+    height: 20px;
+    width:100px;
+}
+#turn-off-button{display:none;}
+label{ 
+    font-family: 'Raleway';
+    color: #e4c2ff;
+    }
