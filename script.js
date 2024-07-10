@@ -28,33 +28,33 @@ $(".suggest-B").click(function() {
 $(".Whole-new-page").click(function() {
     $("h1,h3,.see,h4,ul,button,img,input,div").hide("");
     $("#turn-off-button").hide();
-    $(".hide").show(); 
+    $(".hide").show();
     $("#nexttask").show("");
     $("#nexttask2").show("");
-  $(".heading").show("");
+    $(".heading").show("");
     $("#back-button").show("");
     $(".for-the-sec-page").show("");
-    
+
     $("body").css("background-colingor", "#030b14");
 });
 
 $("#back-button").click(function() {
     $(".hide").hide();
     $("#nexttask").hide("");
-   $("h1,h3,.see,h4,ul,button,img,input,div").show("");
+    $("h1,h3,.see,h4,ul,button,img,input,div").show("");
     $("#back-button").hide("");
     $(".for-the-sec-page").hide("");
     $(".also-have-to-be-in-the-sec-page").hide("");
-     $("#survey").hide();
-     $("body").css("background-color", "#030b14");
-     
+    $("#survey").hide();
+    $("body").css("background-color", "#030b14");
+
 });
 
 //////
 $(".Submit").click(function() {
     let answer1 = $(".your-name").val();
     let answer2 = $(".User-age").val();
-    
+
 
     $(".questions").append(`<p>Thank You for taking our Survey ${answer1} and we hope to stay in contact with you  </p>`);
 });
@@ -79,15 +79,12 @@ $("#turn-on-button").click(function() {
     $("#survey").show();
     $("#turn-off-button").show();
     $("body").css("background-color", "#030b14");
-     
+
 });
 
 
 $("#turn-off-button").click(function() {
     $("#survey").hide();
     $("#turn-off-button").hide();
-    
+
 });
-
-
-
