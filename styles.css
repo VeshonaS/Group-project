@@ -19,7 +19,7 @@ h1 {
     padding: 20px;
     Background-image:
         url("https://i.makeagif.com/media/10-18-2017/Ykn-Ik.gif");
-    background-size: 1360px 100px;
+    background-size: 1060px 100px;
 
 }
 
@@ -73,7 +73,7 @@ p {
 
 
 .suggest {
-     border: groove grey 2px;
+    border: groove grey 2px;
     height: 200px;
     margin: 10px;
     padding: 5px;
@@ -159,17 +159,20 @@ h3 {
 
 
 
-#back-button{
-   display:none; 
-    }
-.back-button2{
-        display:none;
-        }
+#back-button {
+    display: none;
+}
 
-        
-        
-        
-        #survey{display:none;}
+.back-button2 {
+    display: none;
+}
+
+
+
+
+#survey {
+    display: none;
+}
 
 .questions {
     display: flex;
@@ -184,7 +187,7 @@ button {
 }
 
 h1 {
-    
+
     display: flex;
     justify-content: center;
 
@@ -197,37 +200,46 @@ h1 {
 .Yes-input2 {
     display: none;
 }
+
 .User-contact {
     display: none;
 }
+
 .No {
     margin: 2px;
     height: 20px;
-    width:100px;
+    width: 100px;
 }
 
 .Yes {
     margin: 2px;
     height: 20px;
-    width:100px;
+    width: 100px;
 }
+
 .Yes2 {
     margin: 2px;
     height: 20px;
-    width:100px;
+    width: 100px;
 }
-.sure{
+
+.sure {
     margin: 2px;
     height: 20px;
-    width:120px;
+    width: 120px;
 }
+
 .nope {
     margin: 2px;
     height: 20px;
-    width:100px;
+    width: 100px;
 }
-#turn-off-button{display:none;}
-label{ 
+
+#turn-off-button {
+    display: none;
+}
+
+label {
     font-family: 'Raleway';
     color: #e4c2ff;
-    }
+}
