@@ -17,7 +17,7 @@ h1 {
     font-family: 'Oxanium';
     border-radius: 20%;
     padding: 20px;
-    Background-image: "flashy.gif";
+    Background-image: url ("flashy.gif");
     background-size: 1060px 100px;
 
 }
